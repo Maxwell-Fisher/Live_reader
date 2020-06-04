@@ -1,2 +1,2 @@
 # Live_reader
-A batch file that shows the contents of a website on the screen, updating the text whenever the website changes.
+This is batch file that reads the contents of a website to the program, updating whenever the website changes.
